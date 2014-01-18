@@ -8,7 +8,7 @@
 - Basics of Xcode
 - Basics of iOS
   - Stanford lectures
-    https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550
+    - https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550
   - MVC
   - Delegation
   - Documentation
@@ -60,15 +60,10 @@
 
 ### Libraries
 - Facebook
-  https://developers.facebook.com/docs/ios/getting-started
+  - https://developers.facebook.com/docs/ios/getting-started
 
 - Parse + Facebook
-  https://www.parse.com/facebook
-  https://www.parse.com/docs/ios_guide#fbusers/iOS
-  https://parse.com/tutorials/integrating-facebook-in-ios
-  http://www.raywenderlich.com/44640/integrating-facebook-and-parse-tutorial-part-1
-
-
-⌘
-PLACE OF INTEREST SIGN
-Unicode: U+2318, UTF-8: E2 8C 98
+  - https://www.parse.com/facebook
+  - https://www.parse.com/docs/ios_guide#fbusers/iOS
+  - https://parse.com/tutorials/integrating-facebook-in-ios
+  - http://www.raywenderlich.com/44640/integrating-facebook-and-parse-tutorial-part-1
