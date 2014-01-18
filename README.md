@@ -27,6 +27,9 @@
 - Pay
 - Deploy to a device
   - Certificates
+  - https://developer.apple.com/support/technical/certificates/
+  - https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html
+  - https://developer.apple.com/support/technical/code-signing/
 
 ### Marketing notes
 
