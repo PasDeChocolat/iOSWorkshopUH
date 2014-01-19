@@ -16,7 +16,7 @@
 @implementation AAColorVC
 
 - (IBAction)changeMessageButton:(UIButton *)sender {
-    self.messageLabel.text = @"Hello World!";
+    self.messageLabel.text = [NSString stringWithFormat:@"random: %i", arc4random() % (100)];
     self.messageLabel.textColor = [UIColor whiteColor];
 }
 
