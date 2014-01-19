@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF19E7A0188C582D0063C3C1 /* PDCLoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CF19E79F188C582D0063C3C1 /* PDCLoginVC.m */; };
 		CF6E41A1188BBBFA009D36E4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF6E41A0188BBBFA009D36E4 /* Foundation.framework */; };
 		CF6E41A3188BBBFA009D36E4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF6E41A2188BBBFA009D36E4 /* CoreGraphics.framework */; };
 		CF6E41A5188BBBFA009D36E4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF6E41A4188BBBFA009D36E4 /* UIKit.framework */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CF19E79E188C582D0063C3C1 /* PDCLoginVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PDCLoginVC.h; sourceTree = "<group>"; };
+		CF19E79F188C582D0063C3C1 /* PDCLoginVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PDCLoginVC.m; sourceTree = "<group>"; };
 		CF6E419D188BBBFA009D36E4 /* PDCBookStart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PDCBookStart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF6E41A0188BBBFA009D36E4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CF6E41A2188BBBFA009D36E4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -119,6 +122,8 @@
 				CF6E41AF188BBBFA009D36E4 /* PDCAppDelegate.h */,
 				CF6E41B0188BBBFA009D36E4 /* PDCAppDelegate.m */,
 				CF6E41B2188BBBFA009D36E4 /* Main.storyboard */,
+				CF19E79E188C582D0063C3C1 /* PDCLoginVC.h */,
+				CF19E79F188C582D0063C3C1 /* PDCLoginVC.m */,
 				CF6E41B5188BBBFA009D36E4 /* PDCViewController.h */,
 				CF6E41B6188BBBFA009D36E4 /* PDCViewController.m */,
 				CF6E41B8188BBBFA009D36E4 /* Images.xcassets */,
@@ -254,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF19E7A0188C582D0063C3C1 /* PDCLoginVC.m in Sources */,
 				CF6E41B1188BBBFA009D36E4 /* PDCAppDelegate.m in Sources */,
 				CF6E41B7188BBBFA009D36E4 /* PDCViewController.m in Sources */,
 				CF6E41AD188BBBFA009D36E4 /* main.m in Sources */,
@@ -473,6 +479,7 @@
 				CF6E41D1188BBBFA009D36E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF6E41D2188BBBFA009D36E4 /* Build configuration list for PBXNativeTarget "PDCBookStartTests" */ = {
 			isa = XCConfigurationList;
@@ -481,6 +488,7 @@
 				CF6E41D4188BBBFA009D36E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
